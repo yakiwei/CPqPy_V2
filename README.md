@@ -37,4 +37,4 @@ IPhreeqc (via phreeqpy or the IPhreeqc shared library)
 
 Required Python packages: numpy, pandas, Mph (for COMSOL-Python bridging)
 
-Proposed by Yaqiang Wei in 2026 Contact: yakiwei@yahoo.com
+Proposed by Yaqiang Wei, Jiao Zhang in 2026 Contact: yakiwei@yahoo.com
