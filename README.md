@@ -36,3 +36,5 @@ COMSOL Multiphysics (with MPH interface/API enabled)
 IPhreeqc (via phreeqpy or the IPhreeqc shared library)
 
 Required Python packages: numpy, pandas, Mph (for COMSOL-Python bridging)
+
+Proposed by Yaqiang Wei in 2026 Contact: yakiwei@yahoo.com
