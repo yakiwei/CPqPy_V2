@@ -31,10 +31,12 @@ To run CPqPy_V2, you will need:
 
 Python 3.8+
 
-COMSOL Multiphysics (with MPH interface/API enabled)
+COMSOL Multiphysics 6.0+ (with MPH interface/API enabled)
 
-IPhreeqc (via phreeqpy or the IPhreeqc shared library)
+RAM: 16 GB recommended.
+CPU: 4 cores or more.
+Operating System: Windows 10/11 (required for COMSOL-Python MPH interface).
 
-Required Python packages: numpy, pandas, Mph (for COMSOL-Python bridging)
+Required Python packages: numpy, os, sys, shutil, time, Mph (for COMSOL-Python bridging), phreeqc(for Phreeqc-Python bridging)
 
 Proposed by Yaqiang Wei, Jiao Zhang in 2026 Contact: yakiwei@yahoo.com
