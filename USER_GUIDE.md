@@ -1,8 +1,8 @@
-\# User Guide: CPqPy\_V2 Framework
+\# User Guide: ComPhy Framework
 
 
 
-This guide describes the inputs, outputs, and configuration options for the CPqPy\_V2 reactive transport modeling framework.
+This guide describes the inputs, outputs, and configuration options for the ComPhy reactive transport modeling framework.
 
 
 
